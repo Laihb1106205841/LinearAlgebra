@@ -1,7 +1,7 @@
 package lesson1;
 import java.util.Scanner;
 
-public class ERO {
+public class ERO {//本项目是一个比较失败的项目，哈哈哈哈，但是让我感受到了程序的魅力
     public static double[] Multi(double[] Col0,double[] Coli){
         double mi =Coli[0]/Col0[0];
         if(mi==1){return Coli;}
